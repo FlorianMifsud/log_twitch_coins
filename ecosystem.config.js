@@ -10,7 +10,7 @@ module.exports = {
         production: {
             user: "solary",
             host: "dev.florianmifsud.eu",
-            ref: "origin/main",
+            ref: "origin/master",
             repo: "https://github.com/FlorianMifsud/log_twitch_coins.git",
             path: "/home/solary/chat",
             "pre-deploy-local": "",
