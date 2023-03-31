@@ -16,7 +16,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "typescript": "^4.7.4",
+        "typescript": "^5.0.3",
         "typescript-eslint": "0.0.1-alpha.0",
         "debug": "^4.3.4",
         "@types/tmi.js": "^1.8.1",
