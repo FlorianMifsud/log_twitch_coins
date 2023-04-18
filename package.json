@@ -21,7 +21,7 @@
         "debug": "^4.3.4",
         "@types/tmi.js": "^1.8.1",
         "dotenv": "^16.0.1",
-        "mongoose": "^6.5.0",
+        "mongoose": "^7.0.4",
         "tmi.js": "^1.8.5",
         "tsnd": "^1.0.2"
     }
